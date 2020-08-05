@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043584023713",
+    "firebase_url": "https://easy-parking-fcfdb.firebaseio.com",
+    "project_id": "easy-parking-fcfdb",
+    "storage_bucket": "easy-parking-fcfdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043584023713:android:472e1e866e4eb90c1584e0",
+        "android_client_info": {
+          "package_name": "com.example.e_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043584023713-escp4vl18h6eqt580f543live7o6ag47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_parking",
+            "certificate_hash": "c1d5f6477da15eb8185c92bac7d1d42eb0ade7e9"
+          }
+        },
+        {
+          "client_id": "1043584023713-gbnp11tcv5nvhnblp3fo6ag3rh2aer8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBFCNl-FATWsl-kZ6GyrHF2ySnuMbsFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043584023713-gbnp11tcv5nvhnblp3fo6ag3rh2aer8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
