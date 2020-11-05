@@ -13,6 +13,7 @@ const flatry = require('flatry');
 const { Controller } = require('sails-ember-rest');
 
 let isEmpty = (value) => {
+    console.log("AHHAHAH");
     if (value === null || value === undefined || value === '') {
         return true;
     }
