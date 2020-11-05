@@ -16,6 +16,7 @@ let isEmpty = (value) => {
     console.log("AHHAHAH");
     console.log("david1");
     console.log("david2");
+    console.log("zefa1");
     if (value === null || value === undefined || value === '') {
         return true;
     }
