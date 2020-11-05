@@ -14,6 +14,7 @@ const { Controller } = require('sails-ember-rest');
 
 let isEmpty = (value) => {
     console.log("AHHAHAH");
+    console.log("david1");
     if (value === null || value === undefined || value === '') {
         return true;
     }
